@@ -15,6 +15,9 @@ export default {
             colors: {
                     primary: '#1566C0'
                     },
+            backgroundImage: {
+                bgCreate: "url('/media/sneekers3.jpeg')",
+            }
                 }
     },
 

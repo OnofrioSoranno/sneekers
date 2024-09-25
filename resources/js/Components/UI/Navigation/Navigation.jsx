@@ -6,7 +6,6 @@ import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuIt
 const navigation = [
   { name: 'Home', href: 'register', current: true },
   { name: 'Sneekers', href: 'login', current: false },
-
 ]
 
 function classNames(...classes) {
